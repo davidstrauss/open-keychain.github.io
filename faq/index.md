@@ -96,7 +96,7 @@ You can save 1 EUR and support the OpenKeychain project!
 Other supported tokens:
 
   * [YubiKey NEO](https://www.yubico.com/products/yubikey-hardware/yubikey-neo/) (50 EUR / 50 USD)
-  * [SIGILANCE](https://www.sigilance.com/) (25 USD)
+  * [SIGILANCE](https://www.sigilance.com/) (no longer sold)
 
 ## How to import an existing key onto a security token?
 Follow [https://developers.yubico.com/PGP/Importing\_keys.html](https://developers.yubico.com/PGP/Importing_keys.html)
